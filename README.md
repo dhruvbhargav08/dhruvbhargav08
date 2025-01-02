@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruv-bhargav-714985211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-bhargav-714985211" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvbhargav2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvbhargav2001" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dhruv422002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvbhargav2001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dhruvbhargav/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvbhargav/profile" height="30" width="40" /></a>
 </p>
 
